@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+#f{
+    width: 25%;
+    height: 25%;
+    text-align: center;
+}
+
+#welcome{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-size: 25px;
+}
+
+img{
+    text-align: center;
+}

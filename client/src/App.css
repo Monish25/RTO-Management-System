@@ -1,0 +1,15 @@
+body{
+  background-color: #61dafb;
+}
+
+.test{
+  font-family: 'Courier New', Courier, monospace;
+  align-items: center;
+  text-align: center;
+  
+}
+.app{
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
