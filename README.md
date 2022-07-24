@@ -1,6 +1,6 @@
 # RTO-Management-System
  
-**__Project done By Monish Raaj.S and Kishore Kumar.J__**
+
 
 A Basic CRUD ReactJS Application with Express JS server and MYSQL as Database
 
